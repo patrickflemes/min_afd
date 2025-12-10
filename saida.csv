@@ -1,9 +1,0 @@
-estado,simbolo,destino,eh_inicial,eh_final
-q0,a,q1,false,true
-q0,b,q1,false,true
-q1,a,q1,false,false
-q1,b,q1,false,false
-q2,a,q3,true,false
-q2,b,q1,true,false
-q3,a,q3,false,false
-q3,b,q0,false,false
